@@ -1,0 +1,14 @@
+python-multipart
+fastapi
+uvicorn
+pymongo
+langchain
+langchain_openai
+langchain_community
+langchain_chroma
+OpenAI
+joblib
+scikit-learn
+pandas
+numpy
+python-dotenv
